@@ -1,0 +1,9 @@
+# Core dependencies for the example
+python-fasthtml
+opentelemetry-api>=1.20.0
+opentelemetry-sdk>=1.20.0
+sse-starlette>=1.6.0
+uvicorn>=0.24.0
+
+# Optional: for AI chat features
+pydantic-ai>=0.0.8
